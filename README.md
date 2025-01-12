@@ -30,9 +30,9 @@ You can view the written report here - [Final Report](https://github.com/Plancks
 1. **Willingness to Self-Isolate**: A consistent global trend emerged where individuals were more willing to self-isolate when symptomatic than when simply advised to do so. This behavior showed a slight correlation with transmission rates.
 2. **Mask-Wearing Compliance**: Compliance levels varied significantly across countries, with cultural and policy differences likely playing a role. Denmark and Singapore represent two extremes of adherence, highlighting opportunities for comparative studies.
 3. **Challenges in Data Preparation**: The preparation process for this analysis highlighted the complexity of working with pandemic-related data. Key challenges included:
-  - **Inconsistent Data Formats**: Variations in column names, missing values, and temporal alignment across datasets required substantial preprocessing.
-  - **Granularity and Scope**: Data often lacked the granularity necessary for detailed analyses (e.g., regional breakdowns) or included excessive noise that complicated interpretation.
-  - **Dynamic Nature of the Pandemic**: Rapid changes in public health policies and societal behaviors made it difficult to ensure temporal consistency when aligning behaviors with transmission rates.
+    - **Inconsistent Data Formats**: Variations in column names, missing values, and temporal alignment across datasets required substantial preprocessing.
+    - **Granularity and Scope**: Data often lacked the granularity necessary for detailed analyses (e.g., regional breakdowns) or included excessive noise that complicated interpretation.
+    - **Dynamic Nature of the Pandemic**: Rapid changes in public health policies and societal behaviors made it difficult to ensure temporal consistency when aligning behaviors with transmission rates.
 
 ### Conclusion
 This project served as an opportunity to explore the intersection of behavioral science and data visualization. While the analysis was limited by scope and data availability, it underscores the potential for future research to adopt broader, more nuanced methodologies to examine behavioral trends during crises.
